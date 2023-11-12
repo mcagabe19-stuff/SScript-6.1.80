@@ -1,5 +1,3 @@
-
-
 ![TeaLogo](https://i.hizliresim.com/3o2yt2d.png)
 
 # SScript
@@ -12,7 +10,7 @@ SScript is an easy to use Haxe script tool that aims to be simple while supporti
 Enter this command in command prompt to get the latest release from Haxe library.
 
 
-`haxelib git SScript https://github.com/tahirk786/SScript.git`
+`haxelib git SScript https://github.com/mcagabe19-stuff/SScript.git`
 
 Enter this command in command prompt to get the latest git release from Github. 
 Git releases have the latest features but they are unstable and can cause problems.
@@ -169,4 +167,4 @@ class PlayState extends flixel.FlxState
 ```
 
 ## Contact
-If you have any questions or requests, open an issue here or message me on my Discord (tahirk786).
+If you have any questions or requests, open an issue here or message me on my Discord (mc.9).
